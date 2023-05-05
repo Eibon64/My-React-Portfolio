@@ -11,35 +11,39 @@ export const Projects = () => {
 
     const projects = [
         {
-            title: "Business Startup",
-            description: "Design & Development",
+            title: "Weather Dashboard",
+            description: "A basic Weather app",
             imgUrl: projImg1,
+            link: "https://github.com/Eibon64/myWeatherDashboard" 
+            // https://github.com/Eibon64/myWeatherDashboard https://eibon64.github.io/myWeatherDashboard/
         },
         {
-            title: "Business Startup",
-            description: "Design & Development",
+            title: "Bored of Your Job Board",
+            description: "A simple app for posting jobs",
             imgUrl: projImg2,
+            link: "https://github.com/Eibon64/Job-Board"
         },
         {
-            title: "Business Startup",
-            description: "Design & Development",
+            title: "The Book Hub",
+            description: "An app to search for books and related info",
             imgUrl: projImg3,
+            link: "https://github.com/Eibon64/Book-hub"
         },
-        {
-            title: "Business Startup",
-            description: "Design & Development",
-            imgUrl: projImg1,
-        },
-        {
-            title: "Business Startup",
-            description: "Design & Development",
-            imgUrl: projImg2,
-        },
-        {
-            title: "Business Startup",
-            description: "Design & Development",
-            imgUrl: projImg3,
-        },
+        // {
+        //     title: "Business Startup",
+        //     description: "Design & Development",
+        //     imgUrl: projImg1,
+        // },
+        // {
+        //     title: "Business Startup",
+        //     description: "Design & Development",
+        //     imgUrl: projImg2,
+        // },
+        // {
+        //     title: "Business Startup",
+        //     description: "Design & Development",
+        //     imgUrl: projImg3,
+        // },
     ];
 
     return (
