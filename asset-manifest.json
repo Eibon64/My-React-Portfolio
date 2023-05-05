@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio/static/css/main.ccda055c.css",
+    "main.js": "/my-react-portfolio/static/js/main.0954bcd5.js",
+    "static/js/787.56d9acf9.chunk.js": "/my-react-portfolio/static/js/787.56d9acf9.chunk.js",
+    "static/media/project-img3.png": "/my-react-portfolio/static/media/project-img3.a7600ac16bd9575e9701.png",
+    "static/media/color-sharp2.png": "/my-react-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/banner-bg.png": "/my-react-portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/my-react-portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/my-react-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/my-react-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/project-img2.png": "/my-react-portfolio/static/media/project-img2.690638b27d5934a06a03.png",
+    "static/media/CentraNo2-Book.ttf": "/my-react-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/my-react-portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/project-img1.png": "/my-react-portfolio/static/media/project-img1.bee6a232aefa5bb71f87.png",
+    "static/media/contact-img.svg": "/my-react-portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/logo.svg": "/my-react-portfolio/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "static/media/nav-icon3.svg": "/my-react-portfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon2.svg": "/my-react-portfolio/static/media/nav-icon2.04be58c17b3d5e9744424d414240dd85.svg",
+    "index.html": "/my-react-portfolio/index.html",
+    "static/media/nav-icon1.svg": "/my-react-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.ccda055c.css.map": "/my-react-portfolio/static/css/main.ccda055c.css.map",
+    "main.0954bcd5.js.map": "/my-react-portfolio/static/js/main.0954bcd5.js.map",
+    "787.56d9acf9.chunk.js.map": "/my-react-portfolio/static/js/787.56d9acf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccda055c.css",
+    "static/js/main.0954bcd5.js"
+  ]
+}
