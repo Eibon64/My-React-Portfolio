@@ -29,11 +29,12 @@ export const Projects = () => {
             imgUrl: projImg3,
             link: "https://github.com/Eibon64/Book-hub"
         },
-        // {
-        //     title: "Business Startup",
-        //     description: "Design & Development",
-        //     imgUrl: projImg1,
-        // },
+        {
+            title: "MERN Fitness App",
+            description: "A fitness app built with the MERN stack",
+            imgUrl: projImg1,
+            link: "https://github.com/chwd31/Fitness-app-MERN"
+        },
         // {
         //     title: "Business Startup",
         //     description: "Design & Development",
